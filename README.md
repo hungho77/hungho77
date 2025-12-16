@@ -20,7 +20,7 @@ I design and ship **production-grade AI systems** — from multi-GPU LLM serving
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Projects
 
 ### 🤖 Multi-Agent Digital Human Virtual Reception
 A WebRTC-based **AI virtual receptionist** delivering sub-second end-to-end latency.
