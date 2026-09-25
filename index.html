@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Hung Thinh Ho — research on efficient vision-language-action models, low-bit quantization, and robot learning. Selected work: FoldQuantVLA, vla.cpp, ReL-WM, and Retrieve to Act.">
+  <meta name="theme-color" content="#f6f8fa">
+  <link rel="canonical" href="https://hungho77.github.io/hungho77/">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <title>Hung Thinh Ho | Research</title>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <nav class="navigation" aria-label="Main navigation">
+    <div class="nav-inner"><a class="wordmark" href="#top" aria-label="Hung Thinh Ho, back to top">HH<span aria-hidden="true">.</span></a><div class="nav-links"><a href="#about">About</a><a href="#publications">Publications</a><a href="https://github.com/hungho77">GitHub <span aria-hidden="true">↗</span></a></div></div>
+  </nav>
+  <header class="hero" id="top">
+    <div class="container hero-inner">
+      <div class="intro">
+        <p class="eyebrow">Edge AI · Robot learning</p>
+        <h1>Hung Thinh Ho<span class="name-period">.</span></h1>
+        <p class="hero-subtitle">Efficient models. Real-world robots.</p>
+        <p class="hero-description">Vision-language-action models, low-bit inference, and the systems that bring them to the edge.</p>
+        <div class="social-links"><a class="button primary" href="mailto:hothinhhung77@gmail.com">Email <span aria-hidden="true">↗</span></a><a class="button" href="https://github.com/hungho77">GitHub <span aria-hidden="true">↗</span></a><a class="button" href="https://openreview.net/profile?id=~Hung_Thinh_Ho1">OpenReview <span aria-hidden="true">↗</span></a></div>
+      </div>
+      <figure class="profile"><div class="portrait-frame"><img src="assets/profile.jpg" alt="Hung Thinh Ho’s GitHub avatar" width="248" height="248" fetchpriority="high"></div><figcaption><span>@hungho77</span><span>Research &amp; engineering</span></figcaption></figure>
+    </div>
+  </header>
+  <main class="container" id="main">
+    <section id="about" class="section about" aria-labelledby="about-heading">
+      <div class="section-heading"><span class="section-number" aria-hidden="true">01 /</span><h2 id="about-heading">About</h2></div>
+      <div class="about-copy"><p>I’m <strong>Hung Thinh Ho</strong>, a Senior Edge AI Engineer working at the intersection of <strong>robot learning and efficient inference</strong>. I build and optimize vision-language-action (VLA) systems, with a focus on making capable models practical on resource-constrained hardware.</p><p>My work spans low-bit quantization, C++ inference runtimes, and model deployment on edge GPUs. My research also explores world models and retrieval for robust robotic execution.</p></div>
+      <ul class="interests" aria-label="Research interests"><li>Vision-language-action</li><li>Model quantization</li><li>Edge inference</li><li>Robot learning</li></ul>
+    </section>
+    <section id="publications" class="section publications" aria-labelledby="publications-heading">
+      <div class="section-heading"><span class="section-number" aria-hidden="true">02 /</span><h2 id="publications-heading">Selected research</h2></div>
+      <article class="paper featured">
+        <div class="paper-meta"><span class="venue">arXiv · 2026</span><span class="badge">First author</span></div>
+        <div class="paper-content"><h3><a href="https://arxiv.org/abs/2609.24433">FoldQuantVLA: Native Low-Bit Quantization of Vision-Language-Action Models via Consistent Folding</a></h3><p class="authors"><strong>Hung T. Ho</strong>, Khanh D. Nguyen, Quang D. Nguyen, Thanh Q. Duong, Ngan Le, Meng Guo, Vien A. Ngo, An T. Le</p><p class="paper-description">Consistent offline folding for native low-bit VLA inference, from calibration to integer execution on desktop and edge GPUs.</p><div class="paper-links"><a href="https://arxiv.org/abs/2609.24433">Paper <span aria-hidden="true">↗</span></a><a href="https://arxiv.org/pdf/2609.24433">PDF <span aria-hidden="true">↗</span></a><a href="https://github.com/cair-vinuni/FoldQuantVLA">Code <span aria-hidden="true">↗</span></a></div></div>
+      </article>
+      <article class="paper">
+        <div class="paper-meta"><span class="venue">arXiv · 2026</span></div>
+        <div class="paper-content"><h3><a href="https://arxiv.org/abs/2606.08094">vla.cpp: A Unified Inference Runtime for Vision-Language-Action Models</a></h3><p class="authors">Khanh D. Nguyen, <strong>Hung T. Ho</strong>, Chinh T. Nguyen, Thanh Q. Duong, Linh D. Le, Duy M. H. Nguyen, Vien A. Ngo, An T. Le</p><p class="paper-description">A shared C++ runtime for VLA model execution across heterogeneous hardware, with no PyTorch dependency for inference.</p><div class="paper-links"><a href="https://arxiv.org/abs/2606.08094">Paper <span aria-hidden="true">↗</span></a><a href="https://arxiv.org/pdf/2606.08094">PDF <span aria-hidden="true">↗</span></a><a href="https://github.com/VinRobotics/vla.cpp">Code <span aria-hidden="true">↗</span></a></div></div>
+      </article>
+      <article class="paper">
+        <div class="paper-meta"><span class="venue">World models</span></div>
+        <div class="paper-content"><h3>ReL-WM: Grounding World Model in Progress-Aware Scene Graphs</h3><p class="authors">Le-Tuan Nguyen, Minh-Duong Nguyen, Thanh Ly, Minh Duc Nguyen, <strong>Hung Thinh Ho</strong>, Vien Anh Ngo, An Thai Le, Duy Minh Ho Nguyen, Dung D. Le</p></div>
+      </article>
+      <article class="paper">
+        <div class="paper-meta"><span class="venue">Robot learning</span></div>
+        <div class="paper-content"><h3>Retrieve to Act: Motion Primitive Graph Retrieval for Robust VLA Execution</h3><p class="authors">Pham Tri Quang, Bao-Ngoc Dao, Minh Duc Nguyen, Duc-Duy Nguyen, <strong>Hung Thinh Ho</strong>, Linh Dang Le, Trong-Bao Ho, Thien-Loc Ha, Quang Tan Nguyen, Tuan Quang Dam, Vu N. Duong, Daniel Sonntag, Ngan Le, Khoa D Doan, Jan Peters, An Thai Le, Duy Minh Ho Nguyen, Vien Anh Ngo</p></div>
+      </article>
+    </section>
+  </main>
+  <footer class="container footer"><p>© 2026 Hung Thinh Ho</p><a href="#top">Back to top <span aria-hidden="true">↑</span></a></footer>
+</body>
+</html>
