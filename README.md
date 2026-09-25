@@ -1,3 +1,5 @@
+**Research portfolio: [Hung Thinh Ho — Embodied AI & Robot Learning](https://hungho77.github.io/hungho77/)**
+
 <div align="center">
   <a href="https://hungho77.github.io/hung/">
     <img src="./assets/profile-banner.svg" width="100%" alt="Ho Thinh Hung — Senior Edge AI Engineer" />
