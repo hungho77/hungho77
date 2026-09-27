@@ -43,10 +43,11 @@ model quality  ×  memory  ×  latency  ×  power  →  useful intelligence at t
 
 | Project | Focus |
 | :--- | :--- |
-| **[Model Quantization Recipes](https://github.com/hungho77/model-quantization-recipes)** | Practical ModelOpt recipes and benchmark comparisons for BF16, FP8, NVFP4, INT8 SmoothQuant, and INT4 AWQ. |
-| **[TensorRT Edge-LLM](https://github.com/hungho77/TensorRT-Edge-LLM)** | Working fork used to reproduce, isolate, and validate edge LLM/VLM inference failures. |
-| **[Research Note Agent](https://github.com/hungho77/research-note-agent)** | A workflow for reading papers and publishing engineering-focused, implementation-ready notes. |
-| **[Portfolio & Learning in Public](https://github.com/hungho77/hung)** | Interactive benchmarks, project stories, and long-form notes about VLA and model optimization. |
+| **[vla.cpp](https://github.com/VinRobotics/vla.cpp)** | A unified C++ inference runtime for vision-language-action models across heterogeneous hardware. |
+| **[FoldQuantVLA](https://github.com/cair-vinuni/FoldQuantVLA)** | Native low-bit VLA inference through consistent calibration, weight rounding, and INT4/INT8 execution, without policy retraining. |
+| **[Model Quantization Recipes](https://github.com/hungho77/model-quantization-recipes)** | Practical ModelOpt recipes and benchmarks for BF16, FP8, NVFP4, INT8 SmoothQuant, and INT4 AWQ. |
+| **Digital Human** | A real-time AI virtual receptionist combining perception, dialogue, and avatar interaction over WebRTC. |
+| **[TensorRT Edge-LLM](https://github.com/hungho77/TensorRT-Edge-LLM)** | Edge LLM/VLM inference debugging and upstream feature development, including [InternVLA-N1-DualVLN model support](https://github.com/NVIDIA/TensorRT-Edge-LLM/pull/193). |
 
 ### Technical toolkit
 
