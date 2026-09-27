@@ -36,7 +36,8 @@ model quality  ×  memory  ×  latency  ×  power  →  useful intelligence at t
 | **Production AI systems** | Experience spanning GPU inference, real-time multimodal pipelines, and robotics. |
 
 > Read the full experiment: **[TensorRT Edge-LLM — four fixes from controlled experiments](https://hungho77.github.io/hung/blog/debugging-tensorrt-edge-llm/)**<br />
-> Upstream evidence: **[issue #151](https://github.com/NVIDIA/TensorRT-Edge-LLM/issues/151)** · **[issue #105](https://github.com/NVIDIA/TensorRT-Edge-LLM/issues/105#issuecomment-5235852406)**
+> Upstream evidence: **[issue #151](https://github.com/NVIDIA/TensorRT-Edge-LLM/issues/151)** · **[issue #105](https://github.com/NVIDIA/TensorRT-Edge-LLM/issues/105#issuecomment-5235852406)**<br />
+> Feature contribution: **[PR #193 — InternVLA-N1-DualVLN support](https://github.com/NVIDIA/TensorRT-Edge-LLM/pull/193)** — submitted model support for vision-language navigation in TensorRT Edge-LLM.
 
 ### Selected work
 
