@@ -1,13 +1,13 @@
 **Research portfolio: [Hung Thinh Ho — Embodied AI & Robot Learning](https://hungho77.github.io/hungho77/)**
 
 <div align="center">
-  <a href="https://hungho77.github.io/hung/">
+  <a href="https://hungho77.github.io/hungho77/">
     <img src="./assets/profile-banner.svg" width="100%" alt="Ho Thinh Hung — Senior Edge AI Engineer" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://hungho77.github.io/hung/"><img src="https://img.shields.io/badge/Portfolio-246BFE?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://hungho77.github.io/hungho77/"><img src="https://img.shields.io/badge/Portfolio-246BFE?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
   <a href="https://hungho77.github.io/hung/blog/"><img src="https://img.shields.io/badge/Engineering_Notes-0D2955?style=for-the-badge&logo=readme&logoColor=8ED2FF" alt="Engineering notes" /></a>
   <a href="https://www.linkedin.com/in/hunho77"><img src="https://img.shields.io/badge/LinkedIn-071A36?style=for-the-badge&logo=linkedin&logoColor=62A5FF" alt="LinkedIn" /></a>
 </div>
