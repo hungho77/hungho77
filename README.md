@@ -47,7 +47,7 @@ model quality  ×  memory  ×  latency  ×  power  →  useful intelligence at t
 | **[FoldQuantVLA](https://github.com/cair-vinuni/FoldQuantVLA)** | Native low-bit VLA inference through consistent calibration, weight rounding, and INT4/INT8 execution, without policy retraining. |
 | **[Model Quantization Recipes](https://github.com/hungho77/model-quantization-recipes)** | Practical ModelOpt recipes and benchmarks for BF16, FP8, NVFP4, INT8 SmoothQuant, and INT4 AWQ. |
 | **Digital Human** | A real-time AI virtual receptionist combining perception, dialogue, and avatar interaction over WebRTC. |
-| **[TensorRT Edge-LLM](https://github.com/hungho77/TensorRT-Edge-LLM)** | Edge LLM/VLM inference debugging and upstream feature development, including [InternVLA-N1-DualVLN model support](https://github.com/NVIDIA/TensorRT-Edge-LLM/pull/193). |
+| **[EdgeVLA-TRT](https://github.com/hungho77/EdgeVLA-TRT)** | Edge VLA/WAM inference debugging and upstream feature development, including [InternVLA-N1-DualVLN model support](https://github.com/NVIDIA/TensorRT-Edge-LLM/pull/193). |
 
 ### Technical toolkit
 
